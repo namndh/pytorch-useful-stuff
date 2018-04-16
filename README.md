@@ -1,5 +1,5 @@
 # Pytorch useful stuff by me
-## Collect from the [Pytorch Tutorial](http://pytorch.org/tutorials) and the other sources (updating)
+## Collecting from the [Pytorch Tutorial](http://pytorch.org/tutorials) and the other sources (updating)
 ### Operations:
 - Tensor:
   + Given x and y are Tensor matrices : Add operation:
